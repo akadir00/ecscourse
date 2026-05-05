@@ -1,1 +1,2 @@
 # ecscourse
+ödev1: 
